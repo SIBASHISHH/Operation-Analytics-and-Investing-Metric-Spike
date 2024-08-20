@@ -6,7 +6,7 @@ Operational-Analytics
 /*--------------------------------------------Queries--------------------------------------------*/
 
 --Jobs Reviewed Over Time
---(Calculating the number of jobs reviewed per hour for each day in November 2020)
+--(Calculating the number of jobs reviewed per hour for each day in March 2024)
 SELECT 
     DATE_TRUNC('hour', ds) AS review_hour,
     DATE_TRUNC('day', ds) AS review_date,
@@ -14,7 +14,7 @@ SELECT
 FROM
     job_data
 WHERE
-    DATE_TRUNC('month', ds) = '2020-11-01'::DATE
+    DATE_TRUNC('month', ds) = '2024-03-12'::DATE
 GROUP BY
     DATE_TRUNC('hour', ds),
     DATE_TRUNC('day', ds)
