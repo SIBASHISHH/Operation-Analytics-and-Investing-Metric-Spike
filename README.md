@@ -103,8 +103,8 @@ Objective: Analyzing how users are engaging with the email service.
 
 
 ## Summary of Findings
-- [Case Study 1](https://github.com/tushar2704/Operational-Analytics-Study/blob/main/reports/Case_1.docx)
-- [Case Study 2](https://github.com/tushar2704/Operational-Analytics-Study/blob/main/reports/Case_2.docx)
+- [Case Study 1](https://github.com/SIBASHISHH/Operational-Analytics-Study/blob/main/reports/Case_1.docx)
+- [Case Study 2](https://github.com/SIBASHISHH/Operational-Analytics-Study/blob/main/reports/Case_2.docx)
 
 
 
