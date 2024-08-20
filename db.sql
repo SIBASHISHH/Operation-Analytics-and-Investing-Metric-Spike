@@ -1,6 +1,5 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
-Operational-Analytics
+
+/*Operational-Analytics
 */
 /*---------------------------Creating DB----------------------------------------------------*/
 
@@ -106,8 +105,7 @@ WITH (FORMAT CSV, HEADER);
 SELECT * FROM job_data ;
 
 --------------------------------------------------------------------------------------
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+/* 
 Operational-Analytics
 */
 
