@@ -1,5 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+/* 
 Operational-Analytics
 */
 
@@ -63,8 +62,7 @@ FROM (
 ) AS A_R
 WHERE DUPLICATE_ROWS > 1;
 
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+/*
 Operational-Analytics
 */
 
