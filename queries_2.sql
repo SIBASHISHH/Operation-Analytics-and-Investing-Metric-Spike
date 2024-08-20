@@ -1,5 +1,4 @@
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+/*
 Operational-Analytics
 */
 
@@ -92,8 +91,7 @@ ORDER BY
     action;
 
 
-/* © 2023 Tushar Aggarwal. All rights reserved. 
-https://github.com/tushar2704/
+/*
 Operational-Analytics
 */
 
