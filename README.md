@@ -68,11 +68,11 @@ The project will cover a wide range of areas, including user engagement, sales p
 #### ```email_events: Contains events specific to the sending of emails.```
 
 ## Analysis on Case Study 1: Job Data Analysis
-In this case study, I worked with the "job_data" table, investigating job-related metrics.  Tasks includes calculating the number of jobs reviewed per hour for each day in November 2020, deriving the 7-day rolling average of throughput, analyzing the language share over the last 30 days, and identifying duplicate rows in the data.
+In this case study, I worked with the "job_data" table, investigating job-related metrics.  Tasks includes calculating the number of jobs reviewed per hour for each day in March 2024, deriving the 7-day rolling average of throughput, analyzing the language share over the last 30 days, and identifying duplicate rows in the data.
 ## Key Questions Explored
 
 ### Jobs Reviewed Over Time
-Objective: Calculateing the number of jobs reviewed per hour for each day in November 2020.
+Objective: Calculateing the number of jobs reviewed per hour for each day in March 2024.
 ### Throughput Analysis
 Objective: Calculating the 7-day rolling average of throughput (number of events per second).
 ### Language Share Analysis
